@@ -1,0 +1,6 @@
+E:\LK\Dovat\Dovat\bin\Debug\Dovat.exe.config
+E:\LK\Dovat\Dovat\bin\Debug\Dovat.exe
+E:\LK\Dovat\Dovat\bin\Debug\Dovat.pdb
+E:\LK\Dovat\Dovat\obj\Debug\Dovat.csprojResolveAssemblyReference.cache
+E:\LK\Dovat\Dovat\obj\Debug\Dovat.exe
+E:\LK\Dovat\Dovat\obj\Debug\Dovat.pdb

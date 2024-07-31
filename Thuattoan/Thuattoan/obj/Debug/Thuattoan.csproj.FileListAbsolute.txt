@@ -1,0 +1,6 @@
+E:\LK\Thuattoan\Thuattoan\bin\Debug\Thuattoan.exe.config
+E:\LK\Thuattoan\Thuattoan\bin\Debug\Thuattoan.exe
+E:\LK\Thuattoan\Thuattoan\bin\Debug\Thuattoan.pdb
+E:\LK\Thuattoan\Thuattoan\obj\Debug\Thuattoan.csprojResolveAssemblyReference.cache
+E:\LK\Thuattoan\Thuattoan\obj\Debug\Thuattoan.exe
+E:\LK\Thuattoan\Thuattoan\obj\Debug\Thuattoan.pdb
